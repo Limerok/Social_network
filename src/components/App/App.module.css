@@ -1,0 +1,25 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fbfcfe;
+  row-gap: 20px
+}
+
+.main {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+  column-gap: 30px;
+  max-width: 1600px;
+}
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,16 @@
+.nav {
+  padding: 0 15px;
+}
+
+.nav_list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  min-width: 250px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  row-gap: 5px;
+  border-radius: 15px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.05);
+}
